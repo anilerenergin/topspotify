@@ -1,4 +1,4 @@
-# spotify_playground
+# top_spotify
 
 A flutter project using Spotify API.
 
