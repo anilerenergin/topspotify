@@ -1,6 +1,6 @@
 # spotify_playground
 
-A new Flutter project.
+A flutter project using Spotify API.
 
 ## Getting Started
 
