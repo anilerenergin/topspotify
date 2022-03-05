@@ -2,6 +2,9 @@
 
 A flutter project using Spotify API.
 
+Warning
+Don't forget to change client id's of "getAuth" and "connect" on the spotify_sdk.dart file.
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
